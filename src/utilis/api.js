@@ -1,0 +1,1 @@
+export const base_url = 'https://socialmediabackend-production-fa9a.up.railway.app/'

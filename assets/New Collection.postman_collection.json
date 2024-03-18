@@ -1,0 +1,143 @@
+{
+	"info": {
+		"_postman_id": "244a8bc6-d6a0-4a57-91dc-c77d60c67cb1",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23544958",
+		"_collection_link": "https://restless-meteor-816864.postman.co/workspace/NIli~ce8a4aa8-5c80-4d5d-8d81-ce39c69416ed/collection/23544958-244a8bc6-d6a0-4a57-91dc-c77d60c67cb1?action=share&source=collection_link&creator=23544958"
+	},
+	"item": [
+		{
+			"name": "createUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/C:/Users/shubh/Downloads/Video_20240311_233722_446.mp4"
+						},
+						{
+							"key": "name",
+							"value": "Asang",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "Asang112342422654621@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "123",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:9999/users/createUsers",
+					"host": [
+						"localhost"
+					],
+					"port": "9999",
+					"path": [
+						"users",
+						"createUsers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "create post",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/C:/Users/shubh/Downloads/Video_20240311_233722_446.mp4"
+						},
+						{
+							"key": "name",
+							"value": "Asang",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "Asang112342422654621@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "123",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:9999/users/createUsers",
+					"host": [
+						"localhost"
+					],
+					"port": "9999",
+					"path": [
+						"users",
+						"createUsers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "like or unilke",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image",
+							"type": "file",
+							"src": "/C:/Users/shubh/Downloads/Video_20240311_233722_446.mp4"
+						},
+						{
+							"key": "name",
+							"value": "Asang",
+							"type": "text"
+						},
+						{
+							"key": "email",
+							"value": "Asang112342422654621@gmail.com",
+							"type": "text"
+						},
+						{
+							"key": "password",
+							"value": "123",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:9999/users/likeUnlikePost",
+					"host": [
+						"localhost"
+					],
+					"port": "9999",
+					"path": [
+						"users",
+						"likeUnlikePost"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

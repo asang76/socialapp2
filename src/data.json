@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "username": "user1",
+      "fullName": "John Doe",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 10,
+      "commentCount": 5,
+      "comments": [
+        {
+          "id": 1,
+          "text": "Great post!",
+          "userId": 2
+        },
+        {
+          "id": 2,
+          "text": "Nice picture!",
+          "userId": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "fullName": "Jane Smith",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 20,
+      "commentCount": 8,
+      "comments": [
+        {
+          "id": 3,
+          "text": "Awesome!",
+          "userId": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "fullName": "Alice Johnson",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 15,
+      "commentCount": 3,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "fullName": "Bob Williams",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 25,
+      "commentCount": 12,
+      "comments": [
+        {
+          "id": 4,
+          "text": "Keep it up!",
+          "userId": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "fullName": "Emily Brown",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 18,
+      "commentCount": 7,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "fullName": "Michael Johnson",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 30,
+      "commentCount": 15,
+      "comments": [
+        {
+          "id": 5,
+          "text": "Nice work!",
+          "userId": 7
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "fullName": "Sarah Davis",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 22,
+      "commentCount": 9,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "username": "user8",
+      "fullName": "David Martinez",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 17,
+      "commentCount": 6,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "username": "user9",
+      "fullName": "Olivia Lopez",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 12,
+      "commentCount": 4,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "username": "user10",
+      "fullName": "Daniel Lee",
+      "avatarUrl": "https://unsplash.com/photos/a-man-with-dreadlocks-standing-with-his-hands-in-his-pockets-oJlCmwEslh4",
+      "likeCount": 28,
+      "commentCount": 10,
+      "comments": []
+    }
+  ]
+  
